@@ -1,0 +1,7 @@
+D:\desktop\tmp\自动刷抖音\WpfApp1\控制台程序\bin\Debug\控制台程序.exe.config
+D:\desktop\tmp\自动刷抖音\WpfApp1\控制台程序\bin\Debug\控制台程序.exe
+D:\desktop\tmp\自动刷抖音\WpfApp1\控制台程序\bin\Debug\控制台程序.pdb
+D:\desktop\tmp\自动刷抖音\WpfApp1\控制台程序\obj\Debug\控制台程序.csproj.AssemblyReference.cache
+D:\desktop\tmp\自动刷抖音\WpfApp1\控制台程序\obj\Debug\控制台程序.csproj.CoreCompileInputs.cache
+D:\desktop\tmp\自动刷抖音\WpfApp1\控制台程序\obj\Debug\控制台程序.exe
+D:\desktop\tmp\自动刷抖音\WpfApp1\控制台程序\obj\Debug\控制台程序.pdb

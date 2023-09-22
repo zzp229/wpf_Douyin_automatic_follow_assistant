@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SNXCPgbi4tv4+QpGJ8b36/LBWsXCY8QVWZsW1Tr2dlh63te16fCJDwl0UKKq7RgLPcEU96Q3E83ZBqDRfTgDjw==",
+  "success": true,
+  "projectFilePath": "D:\\desktop\\tmp\\自动刷抖音\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13556\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\13556\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
